@@ -5,12 +5,12 @@
 1. CentOS Livemedia Minimal Desktop (ほぼ最小構成に近いGNOME3 Desktop + Firefoxの日本語版)
 
 ## 用途
-- オリジナルの専用Liveメディアを作成する際のベース
+- オリジナルの専用Liveメディアなどを作成する際のベース
 
 ## 要件
 - CentOS 7またはその他RHEL7互換OSが稼働しているマシン
 - root権限
-- livecd-toolsおよび依存パッケージがインストールされていること。
+- livecd-toolsおよび依存パッケージがインストールされていること
 
 ## 実行例
 ```
@@ -23,7 +23,7 @@
 
 ## ライセンス
 
-GNU GPLv2 (CentOS Projectのデフォルトライセンス)
+[GNU GPLv2](https://github.com/lunatilia/centos-7-livemedia-japanese/blob/master/LICENSE) (The CentOS Projectのデフォルトライセンス)
 
 ## 参考
 
