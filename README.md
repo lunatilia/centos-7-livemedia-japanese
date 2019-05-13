@@ -29,5 +29,5 @@
 
 - オリジナル著者   : The CentOS Project
 - オリジナルks     : centos-7-livecd.cfg
-  - sig-core/livemedia.git リポジトリURL : https://git.centos.org/summary/sig-core!livemedia.git
+  - centos/livemedia リポジトリURL : https://git.centos.org/centos/livemedia
 - 情報サイト    : https://seven.centos.org/2014/05/centos-7-live-media-spins/
